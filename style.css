@@ -1,3 +1,6 @@
+body{
+    background-color: gray;
+}
 div#aba {
     background: rgb(159, 159, 159);
     text-align: center;
