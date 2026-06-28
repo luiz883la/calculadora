@@ -7,4 +7,4 @@ A calculadora foi construída de uma forma um pouco mais trabalhosa e, na minha 
 Pretendo continuar atualizando este projeto à medida que eu for aprendendo mais. Se você analisar o código, ficarei muito grato por sugestões, dicas e ideias de melhorias, especialmente para implementar funcionalidades que ainda estão faltando.
 
 Se quiser ver como a calculadora ficou, acesse:
-https://luiz883la.github.io/projetos-web/
+https://luiz883la.github.io/projetos-web/](https://luiz883la.github.io/calculadora/
