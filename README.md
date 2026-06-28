@@ -7,3 +7,4 @@ pois eu acho que ele nao esta bem otimizado, pela questao do casos na parte de o
 da calculadora e funcoes. Eu vou continuar atualizando ela caves mais com oque irei aprender
 mas eu pesso que todos que iram ver o codigo, me dem dicas e ideas para completar partes sem 
 funcionalidade.
+Se voce quiser ver como ficou a calculado clique em: https://luiz883la.github.io/projetos-web/
